@@ -1,4 +1,4 @@
-# AWS-Certificated-Data-Analytics
+# AWS Certificated Data Analytics
 
 - Real Time
   - Kinesis Data Streams (KDS)
