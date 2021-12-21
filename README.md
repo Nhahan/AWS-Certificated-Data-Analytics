@@ -33,3 +33,7 @@ Kinesis Operations
 - Limitations
   - This not operated automatically
   - It takes time to scale up or down (ex. 1000 shards to 2000 takes 8.3 hours)
+
+
+Redshift
+  -
